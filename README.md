@@ -4,3 +4,6 @@
 ## 请直接进入issue提交各种问题
 
 # 自主学习，在线redou
+
+Python+Django+Vue+iView
+
