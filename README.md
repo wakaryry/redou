@@ -7,3 +7,5 @@
 
 Python+Django+Vue+iView
 
+We change frontend into elem's element UI, vue-element-admin.
+Since iView is for PC and is not responsive for mobile.
