@@ -8,3 +8,7 @@
 Python+Django+Vue+iView
 
 We change frontend into elem's element UI, vue-element-admin.
+
+Back: Python + Django + Nginx + Gunicorn.
+
+Front: Vue + Element + Vue-element-admin.
